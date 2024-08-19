@@ -1,0 +1,35 @@
+*{
+    border: none;
+    outline: none;
+}
+
+.highlight{
+    color: #FFC727;
+}
+
+.btn{
+    background:  #343131;
+    padding: .5rem 1.5rem;
+    font-size: 1.2rem;
+    border-radius: .5rem;
+    color: #fff;
+    transition: .3s ease-in-out; 
+}
+
+.btn:hover{
+    background-color: #FFC727;
+}
+
+.btn-1{
+    padding: .5rem 1.5rem;
+    border: 1px solid #FFC727;
+    background: #fff;
+    color: #FFC727;
+    font-size: 1.2rem;
+    border-radius: .5rem;
+}
+
+.btn-1:hover{
+    color: #343131;
+    border-color: #343131;
+}
